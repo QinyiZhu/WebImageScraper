@@ -1,0 +1,6 @@
+env
+images
+chromedriver.exe
+American_School_metadata_Stanford*
+src/.*
+src/debug.log
